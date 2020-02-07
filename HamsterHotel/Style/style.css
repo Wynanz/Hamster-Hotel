@@ -1,0 +1,188 @@
+.white{
+    background-color: white;
+}
+.white1{
+    color: white;
+}
+.bgc{
+    background-color: #000324;
+}
+.opacity{
+    top: 253px;
+    left: 488px;
+    width: 945px;
+    height: 232px;
+    background: #000324 0% 0% no-repeat padding-box;
+    opacity: .8;
+}
+
+.whiteText{
+    color: white;
+}
+.lbborder{
+    border: #1F51A8 solid 1px;
+}
+.dosis{font-family: 'dosis', sans-serif;}
+.size20{
+    font-size: 20;
+}
+.center{
+display: flex;
+justify-content: center;
+}
+.bottom{
+    display: flex;
+    align-items: flex-end;
+}
+.zindex{
+    z-index: 1;
+    position: absolute;
+}
+.centerXY{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+.centered {
+    display: flex;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.wheel{
+font: 40px Dosis;
+letter-spacing: 0;
+color: #E5FEFF;
+opacity: 1;
+}
+.explore{
+font: 14px Source Sans Pro;
+color: #E5FEFF;
+opacity: 1;
+}
+.center-flex{
+    display: flex;
+justify-content: center;
+align-items: center;
+}
+
+#hero-image {
+    /* Use "linear-gradient" to add a darken background effect to the image (photographer.jpg). This will make the text easier to read */
+    background-image: url("../images/header.jpg");
+    /* Set a specific height */
+    height: 500px;
+    /* Position and center the image to scale nicely on all screens */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+ }
+.hero-content{
+    position: absolute;
+    bottom: 50%;
+    right: 50%;
+    color: white;
+}
+.image{
+    display: flex;
+    justify-content: space-between;
+}
+.vertical{
+    display: Flex;
+    flex-direction: column;
+}
+.hamster{
+    top: 719px;
+left: 776px;
+width: 434px;
+height: 44px;
+
+font: 35px Dosis;
+letter-spacing: 0;
+color: #1A1B26;
+opacity: 1;
+}
+.nestled{
+top: 785px;
+left: 776px;
+width: 753px;
+text-align: left;
+font: 16px Source Sans Pro;
+letter-spacing: 0;
+}
+.margin{
+    margin-top: 6rem;
+    margin-bottom: 6rem;
+}
+#hero-image2 {
+    background-image: url("../images/bg2.jpg");
+    height: 645px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+ }
+ .hero-content2{
+    top:2%;
+    left:25%;
+    position: absolute;
+ }
+ .card-text{
+    font: Regular 20px Source Sans Pro;
+    letter-spacing: 0;
+    color: #1A1B26;
+    opacity: 1;
+ }
+
+ .spacing .col{
+     margin-left: auto;
+     margin-right: auto;
+ }
+ .text{
+     font-size: 35px;
+ }
+ 
+ .starting{
+     font-size:16px;
+     color: #1F51A8;
+ }
+ 
+ .pack-text{
+     font:25px dosis;
+ }
+
+ #hero-image3 {
+   background-image: url("../images/bg.jpg");
+   height: 645px;
+   background-position: center;
+   background-repeat: no-repeat;
+   position: relative;
+   background-size: cover;
+  }
+ .amen-text{
+    font: Regular 35px/44px Dosis;
+    letter-spacing: 0;
+    color: #FFFFFF;
+    opacity: 1;
+ }
+
+ .justifycenter{justify-content: center;
+
+}
+.black{
+    background-color:#000324;
+}
+.back-color{
+    color: #000324;
+}
+.reserve{
+    text-align: center;
+font: 35px Dosis;
+letter-spacing: 0;
+color: #FFFFFF;
+opacity: 1;
+}
